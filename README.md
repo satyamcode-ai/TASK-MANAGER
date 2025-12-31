@@ -1,0 +1,3 @@
+Task Manager MERN App is a full-stack web application built using MongoDB, Express.js, React.js, and Node.js that helps users manage their daily tasks efficiently. It allows authenticated users to create, view, update, and delete tasks with details such as title, description, due date, priority, and status. The app features a responsive UI, secure JWT-based authentication, and smooth task handling through RESTful APIs, making it ideal for daily productivity and MERN stack practice.
+
+Example: A user logs in, adds a task “Complete MERN assignment” with a due date, marks it as completed after finishing, and removes it from the list.
